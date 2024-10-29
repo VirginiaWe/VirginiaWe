@@ -11,7 +11,7 @@ I'm a passionate data scientist with a strong background in social and political
 I'm currently exploring exciting opportunities in Australia, eager to apply my skills to innovative projects and make a tangible impact. Whether you're looking for insights, collaboration, or just a chat about data science, feel free to get in touch!
 
 ### 🌍 Let's connect.
-- LinkedIn](https://www.linkedin.com/in/virginiawenger)
-- Email](mailto:wenger.virginia@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/virginiawenger)
+- [Email](mailto:wenger.virginia@gmail.com)
 
 Looking forward to connecting and collaborating with you!
